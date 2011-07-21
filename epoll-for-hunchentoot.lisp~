@@ -1,6 +1,0 @@
-;;;; epoll-for-hunchentoot.lisp
-
-(in-package #:epoll-for-hunchentoot)
-
-;;; "epoll-for-hunchentoot" goes here. Hacks and glory await!
-
